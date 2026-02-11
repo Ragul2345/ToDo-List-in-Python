@@ -1,13 +1,13 @@
-Simple To-Do List in Python:
-                            This is a beginner-friendly To-Do List app built using Python.  
-                            It runs in the terminal and helps you add, view, and delete tasks easily.
+## ✅ Simple To-Do List – Python
 
-How It Works?
-                 1. The program shows you a menu:
-                                            - Add Task
-                                            - View Tasks
-                                            - Delete Task
-                                            - Exit  
-                 2. You enter a number (1–4) to choose what to do.
-                 3. The task list is saved in memory while the program is running.
-                 4. You can keep adding or removing tasks until you choose to exit.                            
+* A beginner-friendly To-Do List application built using Python.
+* This terminal-based program allows users to add, view, and delete tasks easily while learning basic Python concepts like functions, loops, and lists.
+
+## 🛠️ Tech Used
+
+* Python
+
+## ⚙️ How It Works
+
+* The program displays a simple menu where the user can choose to add tasks, view existing tasks, delete tasks, or exit the application.
+* Tasks are stored in a list during runtime, and the user can continue managing tasks until they choose to exit.                            
